@@ -15,3 +15,19 @@
   
 -💬 Ask me about **** 
 </div>
+<br/>
+<div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="mailto:sudhanshutiwari606@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://www.linkedin.com/in/sudhanshu-tiwari-789a59294" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://github.com/Sudh2003" target="blank">
+  <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
+</p>
+</div>
+
